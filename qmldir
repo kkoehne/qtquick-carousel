@@ -1,0 +1,2 @@
+module QuickExtensions.Carousel
+plugin qtquick-carousel
